@@ -8,7 +8,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-Your answer:
+Your answer: it is a decision tree that allows for multiple outcomes in your code
 
 Researched answer:
 
